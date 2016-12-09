@@ -40,6 +40,18 @@
 ### South Korea
 
 * [K-Startup Grand Challenge](http://www.k-startupgc.org)
+
+### Finland
+
+* [Slush](http://www.slush.org)
+
+### Portugal
+
+* [Web Summit](https://websummit.net)
+
+### Russia
+
+* [RIW](http://riw.moscow)
  
 ## Incubators
 
