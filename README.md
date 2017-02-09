@@ -5,6 +5,7 @@
 ### Finland
 
 * [Startup Sauna](http://startupsauna.com)
+* [IceBreaker](https://icebreaker.vc)
 
 ### Russia
 
@@ -37,9 +38,9 @@
 
 ## Events
 
-### South Korea
+### Baltics
 
-* [K-Startup Grand Challenge](http://www.k-startupgc.org)
+* [TechChill](http://www.techchill.co) - event in Riga
 
 ### Finland
 
@@ -52,6 +53,10 @@
 ### Russia
 
 * [RIW](http://riw.moscow)
+
+### South Korea
+
+* [K-Startup Grand Challenge](http://www.k-startupgc.org)
  
 ## Incubators
 
