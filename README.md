@@ -31,6 +31,7 @@
 * [JumpStart Foundry](http://www.jsf.co/)
 * [LaunchPad LA](http://launchpad.la/) Los Angeles based accelerator
 * [Mucker Lab](http://www.muckercapital.com/)
+* [Plug & Play](http://plugandplayaccelerator.com/)
 * [Surge Accelerator](http://www.surgeaccelerator.com/)
 * [TechStars](http://www.techstars.com/)
 * [Tech Wildcatters](http://techwildcatters.com/)
