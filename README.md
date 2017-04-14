@@ -1,5 +1,27 @@
 # Curated list of awesome resources for startups
 
+## Venture Capital and Angel investors
+
+### Austria
+
+* [AltaIR Capital](http://www.altair.vc/)
+
+### Belgium
+
+* [Capricorn Venture Partners](http://www.capricorn.be)
+
+### Czech Republic
+
+* [Credo Ventures](http://www.credoventures.com/)
+
+### Denmark
+
+* [Business Angels Copenhagen](http://www.bacopenhagen.dk)
+
+### Estonia
+
+* [BaltCap](http://www.baltcap.com)
+
 ## Accelerators
 
 ### Finland
