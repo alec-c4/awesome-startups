@@ -22,6 +22,20 @@
 
 * [BaltCap](http://www.baltcap.com)
 
+### Finland
+
+* [Aura Capital](http://www.auratum.com/aura-capital/)
+* [Butterfly Ventures](http://butterfly.vc)
+* [Cleantech Invest](http://www.cleantechinvest.com/)
+* [Conor Venture Partners](http://www.conor.vc)
+
+### France
+
+* [Alven Capital](http://www.alvencapital.com)
+* [Aster Capital](http://aster.com)
+* [Banexi Ventures](http://www.banexiventures.com/)
+* [360° Capital Partners](http://360capitalpartners.com)
+
 ## Accelerators
 
 ### Finland
