@@ -64,6 +64,7 @@
 * [DreamIt Ventures](http://www.dreamitventures.com/)
 * [Entrepreneurs Roundtable Accelerator](http://eranyc.com/)
 * [Founders Institute](http://fi.co/)
+* [Friends of Ebay](http://friends.ebaynyc.com)
 * [JumpStart Foundry](http://www.jsf.co/)
 * [LaunchPad LA](http://launchpad.la/) Los Angeles based accelerator
 * [Mucker Lab](http://www.muckercapital.com/)
