@@ -43,6 +43,10 @@
 * [Startup Sauna](http://startupsauna.com)
 * [IceBreaker](https://icebreaker.vc)
 
+### Germany
+
+* [Samsung Next](http://samsungnext.com/)
+
 ### Russia
 
 * [ФРИИ / IIDF](http://www.iidf.ru/)
